@@ -1,1 +1,4 @@
-1) Digital slam book having features just like physical slam book.
+Aim: Digital slam book having features just like physical slam book.
+Requriements:
+1. Users can add desired questions to slam.
+2. Users can send slam to their friends.
